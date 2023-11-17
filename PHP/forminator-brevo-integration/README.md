@@ -1,17 +1,17 @@
 # Project Title
 
-WPBS Pricing MODS
+Forminator API Integration with Brevo
 
 ## Description
 
-Modifications to WordPerfect Booking System Plugin Pricing to integrate Custom Post Type Meta Data in calendar
+Send contact information from Forminator to Sendinblue Contacts
 
 ## Author
 
 Lee Kierstead
 https://www.linkedin.com/in/lee-kierstead/ \
 https://github.com/Lee-Kierstead/ \
-lee@kwpdev.com \
+lee@kwpdev.com 
 
 ## Version History
 

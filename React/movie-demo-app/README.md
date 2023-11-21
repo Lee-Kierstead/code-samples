@@ -9,6 +9,7 @@ OMDb Movie Search App Demo
 ## Description
 
 Search movies with OMDb api
+See it in action: https://kwpdev.com/react-demos/movie-demo-app/
 
 ## Author
 
@@ -29,4 +30,3 @@ Thanks to https://www.jsmastery.pro/ for the tut.
 ## License
 
 This project is licensed under the  GNU GENERAL PUBLIC LICENSE v.3  - see the LICENSE.txt file for details
-
